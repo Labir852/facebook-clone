@@ -6,28 +6,28 @@ const StoryReel = () => {
     return (
         <div className="StoryReel">
             <Story
-            image="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.0-9/86496513_2859746324104704_8761779162680655872_o.jpg?_nc_cat=109&ccb=2&_nc_sid=730e14&_nc_ohc=bg3j0-_35usAX_eN8jK&_nc_ht=scontent.fdac99-1.fna&oh=bd347481c2d42fdf149c58a5740c99ac&oe=601D52ED"
-            profileSrc="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.0-9/121630630_1276658492681612_8961900382755672641_n.jpg?_nc_cat=104&ccb=2&_nc_sid=09cbfe&_nc_ohc=L5ilCg5PgM8AX9MLYQN&_nc_ht=scontent.fdac99-1.fna&oh=2b338fa11654117bc290ae2da8984ea2&oe=601FB24D"
+            image="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/207095680_1462810614066398_4582811503511090220_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeHZuOypFIqd8HVvCnJyTNH7e_xjcL2E_LR7_GNwvYT8tPiD4w0sPeHciTDaVBM3M1tOhqKBlm7qbpmH7ixNpytI&_nc_ohc=9KaUx9_VeLYAX-LQFDv&_nc_ht=scontent.fdac99-1.fna&oh=f81a9a2fc31997c5fef367c51b04ffd8&oe=60E90D54"
+            profileSrc="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/207095680_1462810614066398_4582811503511090220_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeHZuOypFIqd8HVvCnJyTNH7e_xjcL2E_LR7_GNwvYT8tPiD4w0sPeHciTDaVBM3M1tOhqKBlm7qbpmH7ixNpytI&_nc_ohc=9KaUx9_VeLYAX-LQFDv&_nc_ht=scontent.fdac99-1.fna&oh=f81a9a2fc31997c5fef367c51b04ffd8&oe=60E90D54"
             title="Tanvir Anjum Labir"
             />
             <Story
-            image="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.0-9/135283758_3916930818318984_7556428232444966343_o.jpg?_nc_cat=107&ccb=2&_nc_sid=8bfeb9&_nc_ohc=Mep-Bdtyj68AX_7PEbx&_nc_ht=scontent.fdac99-1.fna&oh=bb894d83e0cc3b81031231b88b4a650a&oe=601F0904"
-            profileSrc="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.0-9/134057985_3916911698320896_2360871693341188218_o.jpg?_nc_cat=108&ccb=2&_nc_sid=09cbfe&_nc_ohc=QIMglyppz5sAX_Vm7Cc&_nc_ht=scontent.fdac99-1.fna&oh=13284eacd0b53b53b80d174d574d177f&oe=601EFCBE"
+            image="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/165571185_4153295904682473_1869583770200450960_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeGd3aKUKeIV1juJTofYeKEn3Kc35aZtl-Tcpzflpm2X5HSi823Uqvg0yGHGmGLq58XOEx3FTYJa0WmHFr-yvOUo&_nc_ohc=WjP1YQE_cq4AX_v54Xf&_nc_ht=scontent.fdac99-1.fna&oh=c0b89d72050742f454d90e632c2b915c&oe=60E9F09F"
+            profileSrc="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/165571185_4153295904682473_1869583770200450960_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeGd3aKUKeIV1juJTofYeKEn3Kc35aZtl-Tcpzflpm2X5HSi823Uqvg0yGHGmGLq58XOEx3FTYJa0WmHFr-yvOUo&_nc_ohc=WjP1YQE_cq4AX_v54Xf&_nc_ht=scontent.fdac99-1.fna&oh=c0b89d72050742f454d90e632c2b915c&oe=60E9F09F"
             title="Rahnuma Tasmin"
             />
             <Story
-            image="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.0-9/53100470_655924994826231_648164217697861632_o.jpg?_nc_cat=111&ccb=2&_nc_sid=a4a2d7&_nc_ohc=WBAYkuI78YQAX8SBCxg&_nc_ht=scontent.fdac99-1.fna&oh=bf8db2ee052289a4279d3a99e16884f5&oe=601D44D3"
-            profileSrc="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.0-9/134463659_1166916670393725_6385845470450742528_o.jpg?_nc_cat=104&ccb=2&_nc_sid=09cbfe&_nc_ohc=qLuq3lTgjZEAX_HXrHJ&_nc_ht=scontent.fdac99-1.fna&oh=177b7db50ae219ffa1b80a91f91b0b0e&oe=601D6B27"
+            image="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/186122778_1249122452173146_4737332570039800232_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeHrnMVieCSpPJ_gbOFH_eGhF58PnTWwxUsXnw-dNbDFS67uJRrv5aGsYWxE0Qke_RKMWUo_EJf9R4GP4_OkQ0NK&_nc_ohc=8XD0eWqq92QAX9-inHK&tn=ukWQpRLBRsfGhn7a&_nc_ht=scontent.fdac99-1.fna&oh=56e032dfa78d87e4dceca95daa01ed61&oe=60E9962D"
+            profileSrc="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/186122778_1249122452173146_4737332570039800232_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeHrnMVieCSpPJ_gbOFH_eGhF58PnTWwxUsXnw-dNbDFS67uJRrv5aGsYWxE0Qke_RKMWUo_EJf9R4GP4_OkQ0NK&_nc_ohc=8XD0eWqq92QAX9-inHK&tn=ukWQpRLBRsfGhn7a&_nc_ht=scontent.fdac99-1.fna&oh=56e032dfa78d87e4dceca95daa01ed61&oe=60E9962D"
             title="Manzurul Islam Shawon"
             />
             <Story
-            image="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.0-9/93228047_926797471069935_8880136186341883904_o.jpg?_nc_cat=104&ccb=2&_nc_sid=e3f864&_nc_ohc=VSOLbPJVelYAX8wFPHj&_nc_ht=scontent.fdac99-1.fna&oh=10ce4a46ded92021849dc4375d938c9a&oe=601EAD44"
-            profileSrc="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.0-9/120200135_1051046518645029_5131692887630500177_o.jpg?_nc_cat=102&ccb=2&_nc_sid=09cbfe&_nc_ohc=yUIJe9akpo4AX_JyIlg&_nc_ht=scontent.fdac99-1.fna&oh=61fc070c207d64e01520c20af17091fd&oe=601D3304"
+            image="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/186061362_1212412949175051_2656439649178309517_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeGmVnhL8hvv4uJD2LQ1ShqB0spzZ7JZgrXSynNnslmCte3jKIyMETXUDu5LWO-mJ6ipUREWZ6PTJR7Qi9VtGiqc&_nc_ohc=y97oROlRww0AX9So4pA&tn=ukWQpRLBRsfGhn7a&_nc_ht=scontent.fdac99-1.fna&oh=bb2d7aa6ceadecc56603b1313ebd9b31&oe=60E9B01A"
+            profileSrc="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/186061362_1212412949175051_2656439649178309517_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeGmVnhL8hvv4uJD2LQ1ShqB0spzZ7JZgrXSynNnslmCte3jKIyMETXUDu5LWO-mJ6ipUREWZ6PTJR7Qi9VtGiqc&_nc_ohc=y97oROlRww0AX9So4pA&tn=ukWQpRLBRsfGhn7a&_nc_ht=scontent.fdac99-1.fna&oh=bb2d7aa6ceadecc56603b1313ebd9b31&oe=60E9B01A"
             title="Md Arif Uddin"
             />
             <Story
-            image="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.0-9/103102733_938460996602764_2274201462594177655_n.jpg?_nc_cat=101&ccb=2&_nc_sid=174925&_nc_ohc=-wINu-7OQO4AX9WSWdq&_nc_ht=scontent.fdac99-1.fna&oh=ee051c3fea2b102a6378fd63a9194096&oe=601DBC71"
-            profileSrc="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.0-9/125188905_1056098691505660_4906434244504817407_n.jpg?_nc_cat=102&ccb=2&_nc_sid=09cbfe&_nc_ohc=WgRHeytZXdsAX-5Pl0P&_nc_ht=scontent.fdac99-1.fna&oh=7b9e4799b193c7ec46770804b0c17095&oe=60202D3D"
+            image="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/125188905_1056098691505660_4906434244504817407_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=174925&_nc_eui2=AeECkTqhrkBX4y6sLaM36y-ZIvLEx8JAyfgi8sTHwkDJ-FGEYsT-a5P7Ar_yEKdvULdZ5k7BXtNbwM_40LWijKnt&_nc_ohc=0HyxQO0ytnMAX-J4vYu&tn=ukWQpRLBRsfGhn7a&_nc_ht=scontent.fdac99-1.fna&oh=039469a481dea61d6015083750930cbf&oe=60E92160"
+            profileSrc="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/103975022_938458929936304_228732943506616522_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=8bfeb9&_nc_eui2=AeGko-6Q3tJP-l4hzXdmbyZ4gSJ4p66_E8GBIninrr8TwQvolGGBMtOm3xgkc10r_HCw2A6En_iSXUWf3Fsahb3P&_nc_ohc=935VnZpW_SUAX8yKk1R&_nc_ht=scontent.fdac99-1.fna&oh=ecfb90dcfa12bfb0ae33b4f47103a9ad&oe=60E8D644"
             title="Ahmed Abdullahi Abukar"
             />
         </div>
