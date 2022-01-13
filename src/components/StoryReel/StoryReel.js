@@ -6,29 +6,29 @@ const StoryReel = () => {
     return (
         <div className="StoryReel">
             <Story
-            image="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/207095680_1462810614066398_4582811503511090220_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeHZuOypFIqd8HVvCnJyTNH7e_xjcL2E_LR7_GNwvYT8tPiD4w0sPeHciTDaVBM3M1tOhqKBlm7qbpmH7ixNpytI&_nc_ohc=9KaUx9_VeLYAX-LQFDv&_nc_ht=scontent.fdac99-1.fna&oh=f81a9a2fc31997c5fef367c51b04ffd8&oe=60E90D54"
-            profileSrc="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/207095680_1462810614066398_4582811503511090220_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeHZuOypFIqd8HVvCnJyTNH7e_xjcL2E_LR7_GNwvYT8tPiD4w0sPeHciTDaVBM3M1tOhqKBlm7qbpmH7ixNpytI&_nc_ohc=9KaUx9_VeLYAX-LQFDv&_nc_ht=scontent.fdac99-1.fna&oh=f81a9a2fc31997c5fef367c51b04ffd8&oe=60E90D54"
+            image="https://scontent.fcgp17-1.fna.fbcdn.net/v/t1.6435-9/121453056_1708641889298094_1733588876796236112_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=aPSnxRYH37QAX8u2QGU&_nc_ht=scontent.fcgp17-1.fna&oh=00_AT9niU-4EE2-bvGfpAdAGmuFY0_Uww_Vqjsoy6hChc97ng&oe=6207C612"
+            profileSrc="https://scontent.fcgp17-1.fna.fbcdn.net/v/t39.30808-6/244199283_1526325901048202_9050207794314995325_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=wEQgMmQQhfgAX-eBNTx&_nc_ht=scontent.fcgp17-1.fna&oh=00_AT_rO34DwFGQ8xYgLnuAiVAG2gTTEmleUQL6_pG71fjlQg&oe=61E5144E"
             title="Tanvir Anjum Labir"
             />
             <Story
-            image="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/165571185_4153295904682473_1869583770200450960_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeGd3aKUKeIV1juJTofYeKEn3Kc35aZtl-Tcpzflpm2X5HSi823Uqvg0yGHGmGLq58XOEx3FTYJa0WmHFr-yvOUo&_nc_ohc=WjP1YQE_cq4AX_v54Xf&_nc_ht=scontent.fdac99-1.fna&oh=c0b89d72050742f454d90e632c2b915c&oe=60E9F09F"
-            profileSrc="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/165571185_4153295904682473_1869583770200450960_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeGd3aKUKeIV1juJTofYeKEn3Kc35aZtl-Tcpzflpm2X5HSi823Uqvg0yGHGmGLq58XOEx3FTYJa0WmHFr-yvOUo&_nc_ohc=WjP1YQE_cq4AX_v54Xf&_nc_ht=scontent.fdac99-1.fna&oh=c0b89d72050742f454d90e632c2b915c&oe=60E9F09F"
-            title="Rahnuma Tasmin"
+            image="https://scontent.fcgp17-1.fna.fbcdn.net/v/t39.30808-6/271593395_2182992531850826_4114988614784842947_n.jpg?_nc_cat=100&_nc_rgb565=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=lZAbNnddDuwAX8f_BEE&tn=cLBx8iyx3YSvviby&_nc_ht=scontent.fcgp17-1.fna&oh=00_AT8FzDEhrMhL_DzvV_WNyy3k5D0WrJnP6R24HarJRE5iig&oe=61E4E97A"
+            profileSrc="https://scontent.fcgp17-1.fna.fbcdn.net/v/t39.30808-6/271593395_2182992531850826_4114988614784842947_n.jpg?_nc_cat=100&_nc_rgb565=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=lZAbNnddDuwAX8f_BEE&tn=cLBx8iyx3YSvviby&_nc_ht=scontent.fcgp17-1.fna&oh=00_AT8FzDEhrMhL_DzvV_WNyy3k5D0WrJnP6R24HarJRE5iig&oe=61E4E97A"
+            title="Farhan Mohib Nahin"
             />
             <Story
-            image="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/186122778_1249122452173146_4737332570039800232_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeHrnMVieCSpPJ_gbOFH_eGhF58PnTWwxUsXnw-dNbDFS67uJRrv5aGsYWxE0Qke_RKMWUo_EJf9R4GP4_OkQ0NK&_nc_ohc=8XD0eWqq92QAX9-inHK&tn=ukWQpRLBRsfGhn7a&_nc_ht=scontent.fdac99-1.fna&oh=56e032dfa78d87e4dceca95daa01ed61&oe=60E9962D"
-            profileSrc="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/186122778_1249122452173146_4737332570039800232_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeHrnMVieCSpPJ_gbOFH_eGhF58PnTWwxUsXnw-dNbDFS67uJRrv5aGsYWxE0Qke_RKMWUo_EJf9R4GP4_OkQ0NK&_nc_ohc=8XD0eWqq92QAX9-inHK&tn=ukWQpRLBRsfGhn7a&_nc_ht=scontent.fdac99-1.fna&oh=56e032dfa78d87e4dceca95daa01ed61&oe=60E9962D"
-            title="Manzurul Islam Shawon"
+            image="https://scontent.fcgp17-1.fna.fbcdn.net/v/t39.30808-6/245924996_1551082438559602_6447962403579126852_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=e3f864&_nc_ohc=EK20G-iJGbYAX-nU1zF&tn=cLBx8iyx3YSvviby&_nc_ht=scontent.fcgp17-1.fna&oh=00_AT-Wc2yOQwzF8cIkwGoiLePFy2aJ09iQm-_wTB1DTlUVMg&oe=61E59C89"
+            profileSrc="https://scontent.fcgp17-1.fna.fbcdn.net/v/t39.30808-6/264053761_1586563638344815_2547802046309275501_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ozwdjPHhalEAX_DxZeB&tn=cLBx8iyx3YSvviby&_nc_ht=scontent.fcgp17-1.fna&oh=00_AT-C3I7LaIUIQCGu9OyXo-1J9tWkvqtEsUm_bfpMDXCq9g&oe=61E5358C"
+            title="Ashraful Islam Hujaifa"
             />
             <Story
-            image="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/186061362_1212412949175051_2656439649178309517_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeGmVnhL8hvv4uJD2LQ1ShqB0spzZ7JZgrXSynNnslmCte3jKIyMETXUDu5LWO-mJ6ipUREWZ6PTJR7Qi9VtGiqc&_nc_ohc=y97oROlRww0AX9So4pA&tn=ukWQpRLBRsfGhn7a&_nc_ht=scontent.fdac99-1.fna&oh=bb2d7aa6ceadecc56603b1313ebd9b31&oe=60E9B01A"
-            profileSrc="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/186061362_1212412949175051_2656439649178309517_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeGmVnhL8hvv4uJD2LQ1ShqB0spzZ7JZgrXSynNnslmCte3jKIyMETXUDu5LWO-mJ6ipUREWZ6PTJR7Qi9VtGiqc&_nc_ohc=y97oROlRww0AX9So4pA&tn=ukWQpRLBRsfGhn7a&_nc_ht=scontent.fdac99-1.fna&oh=bb2d7aa6ceadecc56603b1313ebd9b31&oe=60E9B01A"
-            title="Md Arif Uddin"
+            image="https://scontent.fcgp17-1.fna.fbcdn.net/v/t1.18169-9/12038273_532920500197749_6691680661117972496_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=ba80b0&_nc_ohc=kUz4UDWfLPYAX-8Lq2I&_nc_ht=scontent.fcgp17-1.fna&oh=00_AT_qreiTPC732Le9FVdRnbBFEFd-VGmAucPBAEVOARyPkg&oe=6206F197"
+            profileSrc="https://scontent.fcgp17-1.fna.fbcdn.net/v/t1.6435-9/33900402_2174027552863219_2224422674233294848_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=174925&_nc_ohc=Ij0xqTe9daUAX8IuMXi&_nc_ht=scontent.fcgp17-1.fna&oh=00_AT-tXWaGWbEsF5Vy_MTVWW1dd3xn22JGyPnnPhii4SpC9g&oe=62062875"
+            title="Lionel Messi"
             />
             <Story
-            image="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/125188905_1056098691505660_4906434244504817407_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=174925&_nc_eui2=AeECkTqhrkBX4y6sLaM36y-ZIvLEx8JAyfgi8sTHwkDJ-FGEYsT-a5P7Ar_yEKdvULdZ5k7BXtNbwM_40LWijKnt&_nc_ohc=0HyxQO0ytnMAX-J4vYu&tn=ukWQpRLBRsfGhn7a&_nc_ht=scontent.fdac99-1.fna&oh=039469a481dea61d6015083750930cbf&oe=60E92160"
-            profileSrc="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/103975022_938458929936304_228732943506616522_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=8bfeb9&_nc_eui2=AeGko-6Q3tJP-l4hzXdmbyZ4gSJ4p66_E8GBIninrr8TwQvolGGBMtOm3xgkc10r_HCw2A6En_iSXUWf3Fsahb3P&_nc_ohc=935VnZpW_SUAX8yKk1R&_nc_ht=scontent.fdac99-1.fna&oh=ecfb90dcfa12bfb0ae33b4f47103a9ad&oe=60E8D644"
-            title="Ahmed Abdullahi Abukar"
+            image="https://scontent.fcgp17-1.fna.fbcdn.net/v/t1.6435-9/91288517_641217566675580_1040308016156508160_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=8631f5&_nc_ohc=qxQKLJ2OHFcAX-2FD6S&_nc_ht=scontent.fcgp17-1.fna&oh=00_AT9q37fuqlADplUqEQUvuDl6GspS0EwZ-QgeVrgryROorQ&oe=620437FE"
+            profileSrc="https://scontent.fcgp17-1.fna.fbcdn.net/v/t1.6435-9/91288517_641217566675580_1040308016156508160_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=8631f5&_nc_ohc=qxQKLJ2OHFcAX-2FD6S&_nc_ht=scontent.fcgp17-1.fna&oh=00_AT9q37fuqlADplUqEQUvuDl6GspS0EwZ-QgeVrgryROorQ&oe=620437FE"
+            title="Neymar de silva Junior"
             />
         </div>
     );
