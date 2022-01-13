@@ -1,19 +1,19 @@
+import ChatIcon from '@material-ui/icons/Chat';
+import EmojiFlagsIcon from '@material-ui/icons/EmojiFlags';
+import ExpandMoreOutlinedIcon from '@material-ui/icons/ExpandMoreOutlined';
+import LocalHospitalIcon from '@material-ui/icons/LocalHospital';
+import PeopleIcon from '@material-ui/icons/People';
+import StorefrontIcon from '@material-ui/icons/Storefront';
+import VideoLibraryIcon from '@material-ui/icons/VideoLibrary';
 import React from 'react';
 import SidebarRow from '../SidebarRow/SidebarRow';
 import "./Sidebar.css";
-import LocalHospitalIcon from '@material-ui/icons/LocalHospital';
-import EmojiFlagsIcon from '@material-ui/icons/EmojiFlags';
-import PeopleIcon from '@material-ui/icons/People';
-import ChatIcon from '@material-ui/icons/Chat';
-import StorefrontIcon from '@material-ui/icons/Storefront';
-import VideoLibraryIcon from '@material-ui/icons/VideoLibrary';
-import ExpandMoreOutlinedIcon from '@material-ui/icons/ExpandMoreOutlined';
  
 const Sidebar = () => {
     return (
         <div className="sidebar">
             <SidebarRow 
-            src="https://scontent.fdac99-1.fna.fbcdn.net/v/t1.0-9/121630630_1276658492681612_8961900382755672641_n.jpg?_nc_cat=104&ccb=2&_nc_sid=09cbfe&_nc_ohc=L5ilCg5PgM8AX9MLYQN&_nc_ht=scontent.fdac99-1.fna&oh=2b338fa11654117bc290ae2da8984ea2&oe=601FB24D"
+            src="https://scontent.fcgp17-1.fna.fbcdn.net/v/t39.30808-6/244199283_1526325901048202_9050207794314995325_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=wEQgMmQQhfgAX-eBNTx&_nc_ht=scontent.fcgp17-1.fna&oh=00_AT_rO34DwFGQ8xYgLnuAiVAG2gTTEmleUQL6_pG71fjlQg&oe=61E5144E"
             title="Tanvir Anjum Labir"
             />
             <SidebarRow Icon={LocalHospitalIcon} title="Covid-19 Information Center"></SidebarRow>
